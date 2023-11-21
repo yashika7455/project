@@ -1,0 +1,23 @@
+.listanime{
+    /* display: ; */
+    justify-content: space-between;
+    align-items:center;
+    padding: 20px 0;
+    transition: all 0.3s  ease-in-out;
+    background-color: black;
+}
+.listanime .text {
+    color: white;
+}
+.listbackanime{
+    display: flex;
+    color: #fff;
+    
+    
+}
+/* .firstlist .secondlist .thirdlist .forthlist .fivthlist{
+  grid-template-columns: 100px 50px 100px;
+  grid-template-rows: 80px auto 80px; 
+  column-gap: 10px;
+  row-gap: 15px;
+} */
